@@ -1,4 +1,4 @@
-＃ CHITUBOX支持帮助工具“ ZSupport Tool”
+# CHITUBOX支持帮助工具“ ZSupport Tool”
 
 ## 1.按“ Z”键添加支持
 - 在通过“ Z”键选择的起点和终点之间创建支撑
