@@ -2,6 +2,7 @@
 
 ## 1. Add support by "Z" key press
 - Create a support between the start and end points selected with "Z" key
+- Undo ZSupport made support by 'U' Key. (If you click left or right mouse click, this function not working.)
 
 ## 2. Cancel start position by "ESC" key press.
 
