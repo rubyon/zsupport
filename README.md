@@ -1,19 +1,19 @@
-# CHITUBOX 서포트 지원 툴 "ZSupport Tool"
+# CHITUBOX Support Help Tool "ZSupport Tool"
 
-## 1. "Z"키를 눌러 지원 추가
-- "Z"키로 선택한 시작점과 끝점 사이에 서포트를 만듭니다.
-- "U" 키로 Z 서포트로 만든 서포트를 취소 합니다. (마우스 오른쪽이나 왼쪽 클릭을 하시면 이 기능인 동작 하지 않습니다.)
+## 1. Add support by "Z" key press
+- Create a support between the start and end points selected with "Z" key
+- Undo ZSupport made support by 'U' Key. (If you click left or right mouse click, this function not working.)
 
-## 2. "ESC"키를 눌러 시작 위치를 취소합니다.
+## 2. Cancel start position by "ESC" key press.
 
-## 3. 서포트 개수는 "X"및 "C"키로 조정할 수 있습니다.
-- "C"키로 증가시킵니다.
-- "X"키로 줄입니다.
+## 3. Number of supports can be adjusted with "X" and "C" keys.
+- Increase by "C" key.
+- Decrease by "X" key.
 
-## 4. "마우스 오른쪽" 버튼 클릭으로 서포트 삭제.
-- 키보드 "S"키로도 삭제할 수 있습니다.
+## 4. Delete support By "Mouse Right" Button click.
+- You can also delete it with the keyboard "S" key.
 
-## 5. chitubox 상단보기 모드 인 경우 "B"키를 눌러 하단보기로 변경합니다.
-- 모델의 상하를 전환하려면 "B"키를 사용하십시오.
+## 5. If chitubox top view mode, Change to bottom view by "B" key press.
+- Use "B" key to switch the top and bottom of the model.
 
-## 6. 자동 업데이트.
+## 6. Auto update.
