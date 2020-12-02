@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.7.1</version>
-    <url>https://github.com/rubyon/zsupport/releases/download/1.0.7.1/ZSupport.zip</url>
+    <version>1.0.7.2</version>
+    <url>https://github.com/rubyon/zsupport/releases/download/1.0.7.2/ZSupport.zip</url>
     <changelog>https://github.com/rubyon/ZSupport/releases</changelog>
     <mandatory>false</mandatory>
 </item>
